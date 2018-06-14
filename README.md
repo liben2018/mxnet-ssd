@@ -5,8 +5,10 @@ SSD is an unified framework for object detection with a single network.
 You can use the code to train/evaluate/test for object detection task.
 
 ### Disclaimer
-This is a re-implementation of original SSD which is based on caffe. The official
-repository is available [here](https://github.com/weiliu89/caffe/tree/ssd).
+This is a re-implementation of original SSD which is based on caffe. 
+
+The official repository is available [here](https://github.com/weiliu89/caffe/tree/ssd).
+
 The arXiv paper is available [here](http://arxiv.org/abs/1512.02325).
 
 This example is intended for reproducing the nice detector while fully utilize the
